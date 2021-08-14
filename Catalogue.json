@@ -1,0 +1,473 @@
+{
+    "message": "valid",
+    "categories": [
+        {
+            "id": "12",
+            "name": "Breakfast",
+            "subCategories": [
+                {
+                    "name": "Sweet",
+                    "products": [
+                        {
+                            "id" : "1",
+                            "name" : "Romania Butter",
+                            "imageUrl" : "https://d3o0ecz6febi2h.cloudfront.net/product_variances/images/2020/sep/1/20/059186e7-2ea9-4326-8bed-b8cc83197623.lg.jpg",
+                            "price" : 1.20,
+                            "currency" : "$",
+                            "desc": "test desc"
+                        },
+                        {
+                            "id" : "2",
+                            "name" : "Lurpak Butter",
+                            "imageUrl" : "https://d3o0ecz6febi2h.cloudfront.net/product_variances/images/2021/jan/4/16/744bc5de-3c8b-405e-a2c4-73b13c84d5ec.lg.jpg",
+                            "price" : 1.70,
+                            "currency" : "$",
+                            "images" : ["https://s3.pricemestatic.com/Images/RetailerProductImages/StRetailer2683/rp_26888169_0027610604.png",
+                            "https://d3o0ecz6febi2h.cloudfront.net/product_variances/images/2021/jan/4/16/744bc5de-3c8b-405e-a2c4-73b13c84d5ec.lg.jpg"]
+                        },
+                        {
+                            "id" : "3",
+                            "name": "Honey",
+                            "info" : "340g",
+                            "imageUrl" : "https://ui.assets-asda.com/dm/asdagroceries/5057172384136_T1?defaultImage=asdagroceries/noImage&resMode=sharp2&id=ju3SF1&fmt=jpg&dpr=off&fit=constrain,1&wid=256&hei=256",
+                            "price" : 3.40,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "4",
+                            "name" : "Flavoured Yogurt",
+                            "imageUrl" : "https://ui.assets-asda.com/dm/asdagroceries/5052450046201_T1?defaultImage=asdagroceries/noImage&resMode=sharp2&id=j_cTL0&fmt=jpg&dpr=off&fit=constrain,1&wid=256&hei=256",
+                            "price" : 2.55,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "5",
+                            "name" : "Nancy Nonfat Yogurt",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00043192104002/aaaeffaf530e44a38c04a00e0807aed8_large.png&width=256&type=webp&quality=80",
+                            "price" : 2.05,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "6",
+                            "name" : "Greek Plain Yogurt",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00078355550006/2fa561642b634f9cf571eea3eb348ebe_large.png&width=256&type=webp&quality=80",
+                            "price" : 2.00,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "7",
+                            "name" : "Daiya Yogurt",
+                            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfozUSBR9_jQPspwMZpSKxWV6GzLZoP_4-2w&usqp=CAU",
+                            "price" : 2.95,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "8",
+                            "name" : "Chobani Yogurt",
+                            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-HU_mMjMF8IX0FdSAZyDtINnrDb-mT3CtjQ&usqp=CAU",
+                            "price" : 1.75,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "9",
+                            "name" : "Kitehill Yogurt",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00856624004111/517f2741596f6df3e2c8fc7ef59631fa_large.png&width=256&type=webp&quality=80",
+                            "price" : 1.55,
+                            "currency" : "$"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cereals",
+                    "products": [
+                        {
+                            "id" : "41",
+                            "name" : "Kellog's Cereal",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00038000001208/b513c05941d7ca407ad3a17e0da81d62_large.png&width=256&type=webp&quality=80",
+                            "price" : 2.25,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "42",
+                            "name" : "Kellog's Red Berries",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00038000143717/b957f99504096d87b656732fcc1d749e_large.png&width=256&type=webp&quality=80",
+                            "price" : 3.40,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "43",
+                            "name" : "Nestle Milo Cereal",
+                            "imageUrl" : "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/a194fdd87a61-icon-256-256-true-44246b5bbc19d013ce589d50f7c95037.png",
+                            "price" : 2.55,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "43",
+                            "name" : "kellog's Choccos",
+                            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwuW_BdzldZ4iQSczxvUBOf21YqNDa-JIEg&usqp=CAU",
+                            "price" : 2.15,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "44",
+                            "name" : "Mom's Best Cereals",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00883978301856/b3c52a44a86ac9a5272ba3929f471fd1_large.png&width=256&type=webp&quality=80",
+                            "price" : 2.85,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "45",
+                            "name" : "Nestle Cookie Crisp",
+                            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQk7viJuLLfxDal9TRN2nc4dyMhRb45vOk5w&usqp=CAU",
+                            "price" : 2.85,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "46",
+                            "name" : "Nestle Nesquick",
+                            "imageUrl" : "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/256/256/true/eyJpZCI6ImRkMmUyYzQ3YjZlNzNmZjBkNTYwYWNlMzQwNGEwNzE2LmpwZyIsInN0b3JhZ2UiOiJwdWJsaWNfc3RvcmUifQ?signature=7aa3c2923bba1123076620a4395c4d63730cb0d2b5c145476591c0eb00c39caa",
+                            "price" : 1.85,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "47",
+                            "name" : "Kellog's Muesli Nut",
+                            "imageUrl" : "https://d3o0ecz6febi2h.cloudfront.net/product_variances/images/2020/aug/23/11/14967334-5c9f-483d-8d2a-815bab27d05b.lg.jpg",
+                            "price" : 3.45,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "48",
+                            "name" : "Kellog's Just Right",
+                            "imageUrl" : "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/256/256/true/eyJpZCI6ImQ0ZGVjOGVhOTRkNTAwZGYzMmExODhkNDkzZDUzN2M3Iiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=c81a81440c2965aeabbe31a4635dc0677e87d8f2b5b44b03b62a93b149ea025b",
+                            "price" : 3.85,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "49",
+                            "name" : "Kellog's Corn Flakes",
+                            "imageUrl" : "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/256/256/true/eyJpZCI6IjE0NjUzNTYxYzEyZDkxNDdiY2I4NzA0YzZlMzBhZjExIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=fb55668e116e0604c0887548783308a6969952dd747e6b87e49288b1d02908d2",
+                            "price" : 2.85,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "50",
+                            "name" : "Be Natural Honey",
+                            "imageUrl" : "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/256/256/true/eyJpZCI6Ijk2ZDhhZGYxZmNjMDZmM2UzYzU5ZTJjOGJkZTVmZGM1LmpwZyIsInN0b3JhZ2UiOiJwdWJsaWNfc3RvcmUifQ?signature=deb25f269671de7303cc4b528b743a46e66bdf18580bf32e2880db0e7200da5e",
+                            "price" : 2.85,
+                            "currency" : "$"
+                        }
+                    ]
+                },
+                {
+                    "name": "Spreads and Jam",
+                    "products": [
+                        {
+                            "id" : "51",
+                            "name" : "Strawberry Jam",
+                            "imageUrl" : "https://ui.assets-asda.com/dm/asdagroceries/5701116208223_T1?defaultImage=asdagroceries/noImage&resMode=sharp2&id=UPqSF1&fmt=jpg&dpr=off&fit=constrain,1&wid=256&hei=256",
+                            "price" : 0.95,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "52",
+                            "name" : "Duo Chocolate spread",
+                            "imageUrl" : "https://ui.assets-asda.com/dm/asdagroceries/05051413579381_T1?defaultImage=asdagroceries/noImage&resMode=sharp2&id=TonSZ2&fmt=jpg&dpr=off&fit=constrain,1&wid=256&hei=256",
+                            "price" : 0.80,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "53",
+                            "name" : "Nutella Chocolate Spread",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00009800895250/b67cab9779a60236be642f424938f518_large.png&width=256&type=webp&quality=80",
+                            "price" : 1.05,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "54",
+                            "name" : "Smucker's Mosaics",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/1564405684704466236/33b4b88365d1e084e317ef5d9db67bb4_large.png&width=256&type=webp&quality=80",
+                            "price" : 1.45,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "55",
+                            "name" : "Stonewall Kitchen Jam",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00711381021408/8414918dbbb7e8e7ce488233316f877a_large.png&width=256&type=webp&quality=80",
+                            "price" : 1.95,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "57",
+                            "name" : "Organic Peanut butter",
+                            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBcf7zcjc3yKZkksUw1KX0XJEy7hg6tLUJA&usqp=CAU",
+                            "price" : 1.00,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "58",
+                            "name" : "Fix & Fogg Almond Butter",
+                            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPOw4J2G7MSqnJ5FAaZqBeT5ImCq7FMuWmA&usqp=CAU",
+                            "price" : 1.75,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "59",
+                            "name" : "Bonnie Maman Spread",
+                            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR001jozsbgE_aH1amF0QhSc3qNBYUSJjAMg&usqp=CAU",
+                            "price" : 2.05,
+                            "currency" : "$"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ice Tea & Coffee",
+                    "products": [
+                        {
+                            "id" : "61",
+                            "name" : "Starbucks Almond Coffee",
+                            "imageUrl" : "https://ui.assets-asda.com/dm/asdagroceries/5711953095528_T1?defaultImage=asdagroceries/noImage&resMode=sharp2&id=7HYRL3&fmt=jpg&dpr=off&fit=constrain,1&wid=256&hei=256",
+                            "price" : 3.00,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "62",
+                            "name" : "Starbucks Vanilla Latte",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00048500201312/9e3d9677819758e6d259638d93db9055_large.png&width=256&type=webp&quality=80",
+                            "price" : 3.10,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "63",
+                            "name" : "Starbucks Molten Chocolate Latte",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00012000172465/4e6b15d586ba95ef9468d14423726fd9_large.png&width=256&type=webp&quality=80",
+                            "price" : 3.05,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "64",
+                            "name" : "Starbucks Pumpkin Latte",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00012000170157/c170f66dbf6a2360b3f43ad7725faf98_large.png&width=256&type=webp&quality=80",
+                            "price" : 3.05,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "65",
+                            "name" : "Starbucks Vanilla Drink",
+                            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd1mM0g331VNS_o-PJMbqI7lp6FqGxzDrt3Q&usqp=CAU",
+                            "price" : 3.05,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "66",
+                            "name" : "Starbucks Toffeenut Latte",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00050000480821/5179c1b479b0379f026194d7ced7d6b7_large.png&width=256&type=webp&quality=40",
+                            "price" : 3.05,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "67",
+                            "name" : "Starbucks Signature Chocolate Drink",
+                            "imageUrl" : "https://ui.assets-asda.com/dm/asdagroceries/5711953077937_T1?defaultImage=asdagroceries/noImage&resMode=sharp2&id=EZARD0&fmt=jpg&dpr=off&fit=constrain,1&wid=256&hei=256",
+                            "price" : 3.05,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "68",
+                            "name" : "Starbucks White Chocolate Mocha",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00012000171031/3d06612581aebc6bafe5d32d97198384_large.png&width=256&type=webp&quality=80",
+                            "price" : 3.05,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "69",
+                            "name" : "Starbucks Caramel",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00048500201282/678a23b2424f3a0907aa46a271c621a5_large.png&width=256&type=webp&quality=80",
+                            "price" : 2.05,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "70",
+                            "name" : "Starbucks Iced Coffee",
+                            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47fbFz9EX7PICkrWzoUYVDOJXV8WdhLp5bg&usqp=CAU",
+                            "price" : 2.05,
+                            "currency" : "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "name": "Fruits & Veggies",
+            "subCategories": [
+                {
+                    "name": "Fresh Vegetables",
+                    "products": [
+                        {
+                            "id" : "124",
+                            "name" : "Tomato",
+                            "imageUrl" : "https://pbs.twimg.com/profile_images/378800000549764122/52f63b2ccdbfdc4e4993559f02078fd4.jpeg",
+                            "price" : 1.20,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "125",
+                            "name" : "Cucumber",
+                            "imageUrl" : "https://images.freshop.com/5181/a9e5889ca99e956d3d685747696415ed_medium.png",
+                            "price" : 3.40,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "126",
+                            "name" : "Carrots",
+                            "imageUrl" : "http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/carrot.png",
+                            "price" : 2.55,
+                            "currency" : "$"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fresh Fruits",
+                    "products": [
+                        {
+                            "id" : "127",
+                            "name" : "Avocado",
+                            "info" : "1kg",
+                            "imageUrl" : "https://pbs.twimg.com/profile_images/689609039605460992/mva6YmZ-.jpg",
+                            "price" : 1.2,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "128",
+                            "name" : "Mango",
+                            "info" : "1kg",
+                            "imageUrl" : "https://photo-cdn.urdupoint.com/show_img_new/daily-prices/images/250x250/1566386753_d5970_pic.jpg._1",
+                            "price" : 3.40,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "129",
+                            "name" : "Apples",
+                            "info" : "500g",
+                            "imageUrl" : "https://floraldesire.s3.amazonaws.com/__sized__/products/Apple_Gala-thumbnail-355x355.png",
+                            "price" : 2.55,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "130",
+                            "name" : "Oranges",
+                            "info" : "500g",
+                            "imageUrl" : "https://cdn.mydukaan.io/v1/image/256x256/1043243/25df30e3-1ab8-49b2-8334-131371bb568a.png",
+                            "price" : 2.55,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "131",
+                            "name" : "Bananas",
+                            "info" : "500g",
+                            "imageUrl" : "https://ui.assets-asda.com/dm/asdagroceries/0000000005227_T1?defaultImage=asdagroceries/noImage&resMode=sharp2&id=2O4SV3&fmt=jpg&dpr=off&fit=constrain,1&wid=256&hei=256",
+                            "price" : 4.0,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "132",
+                            "name" : "Watermelon",
+                            "info" : "500g",
+                            "imageUrl" : "https://bonaprezo.awery.com/system/downloads/cake_product_file.php?file_id=1072&thumb=1",
+                            "price" : 4.0,
+                            "currency" : "$"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "name": "Dairy",
+            "subCategories": [
+                {
+                    "name": "Milk",
+                    "products": [
+                        {
+                            "id" : "21",
+                            "name" : "Skimmed Milk",
+                            "info" : "1 Litre",
+                            "imageUrl" : "https://d3o0ecz6febi2h.cloudfront.net/product_variances/images/2020/aug/23/11/e2385497-9e06-436f-849b-7eeabe851a73.lg.jpg",
+                            "price" : 1.20,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "22",
+                            "name" : "Full cream Milk",
+                            "info" : "1 Litre",
+                            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6KyGOjAyA48ZojPL8DIRy4Ty_ayomvsrlMQ&usqp=CAU",
+                            "price" : 1.70,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "23",
+                            "name" : "Whole Milk",
+                            "info" : "1 Litre",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00041383090363/efaaab640f34d99568b0301de69b4722_large.png&width=256&type=webp&quality=80",
+                            "price" : 1.40,
+                            "currency" : "$"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cheese",
+                    "products": [
+                        {
+                            "id" : "141",
+                            "name" : "Classic Cheese",
+                            "imageUrl" : "https://ui.assets-asda.com/dm/asdagroceries/5054781873600_T1?defaultImage=asdagroceries/noImage&resMode=sharp2&id=SmpSH1&fmt=jpg&dpr=off&fit=constrain,1&wid=256&hei=256",
+                            "price" : 2.25,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "142",
+                            "name" : "Mozzarella Cheese",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00036800051140/e2df9b8ad373989af46b2e19035e698d_large.png&width=256&type=webp&quality=80",
+                            "price" : 3.40,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "143",
+                            "name" : "Cheddar cheese",
+                            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR-tZB2CvxjHX_biFpnem2upbTpspnIk38JA&usqp=CAU",
+                            "price" : 1.05,
+                            "currency" : "$"
+                        }
+                    ]
+                },
+                {
+                    "name": "Creams",
+                    "products": [
+                        {
+                            "id" : "231",
+                            "name" : "Nestle Cream",
+                            "imageUrl" : "https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00028000517205/09e52bace71d94e65a760a779ef5e7bf_large.png&width=256&type=webp&quality=80",
+                            "price" : 0.97,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "232",
+                            "name" : "Nestle Milkpak Cream",
+                            "imageUrl" : "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12624396-0-M.jpg?5",
+                            "price" : 0.97,
+                            "currency" : "$"
+                        },
+                        {
+                            "id" : "233",
+                            "name" : "Nestle All purpose cream",
+                            "imageUrl" : "https://ml5ispwgxjkd.i.optimole.com/kskrOOQ-B40ZZ13a/w:382/h:382/q:auto/https://gcquick.com/wp-content/uploads/2020/07/nestle-cream-250ml-1.jpg",
+                            "price" : 0.97,
+                            "currency" : "$"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
